@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="havells" size="0.050000 0.080825" />
+    <ImageTarget name="pit" size="0.120000 0.080256" />
+    <ImageTarget name="holi" size="0.120000 0.073945" />
+    <ImageTarget name="savlon" size="0.140000 0.109688" />
+    <ImageTarget name="cskvsrcb" size="0.150000 0.193243" />
+  </Tracking>
+</QCARConfig>
